@@ -1,0 +1,6 @@
+{
+  "name": "Choco Moko Cake",
+  "description": "Premium online cake ordering boutique offering artisanal, handcrafted luxury cakes delivered fresh in as little as 2 hours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
